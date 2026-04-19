@@ -9,8 +9,8 @@ ANIM="space"
 usage() {
 cat << EOF
 ╔══════════════════════════════════════════════════════╗
-║           dol6oe6 animations v${VERSION}                    ║
-║         simple ASCII animations for your terminal    ║
+║           ${RED}dol6oe6 animations v${VERSION}                    ║
+║         ${GREEN}simple ASCII animations for your terminal    ║
 ╚══════════════════════════════════════════════════════╝
 
 USAGE:
