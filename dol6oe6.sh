@@ -14,7 +14,7 @@ cat << EOF
 ╚══════════════════════════════════════════════════════╝
 
 USAGE:
-  ./space.sh [flag]
+  ./dol6oe6.sh [flag]
 
 ANIMATIONS:
   -space      Parallax star field with shooting stars (default)
